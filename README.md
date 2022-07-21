@@ -35,8 +35,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ******** Check out the deployed app here: [Note Taker]   *********
 ### Screenshots
 
-![screenshot] copy relative path and past here
-![screenshot] copy relative path and paste here
+![screenshot] (https://github.com/kara-krzystan/note-your-average-app/develop/public/assets/images/Screenshot_02.jpg
+
+![screenshot] (https://github.com/AlexxSavov/note-your-average-app/develop/public/assets/images/ScreenShot2022_01.jpg
 
 ### Contact 
 [Alex on GitHub](http://github.com/AlexxSavov)
