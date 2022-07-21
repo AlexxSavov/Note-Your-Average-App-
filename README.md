@@ -32,12 +32,12 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
 
 ### Website Link
-******** Check out the deployed app here: [Note Taker]   *********
+https://note-your-average-app.herokuapp.com/
 ### Screenshots
 
 ![screenshot] (https://github.com/AlexxSavov/note-your-average-app/develop/public/assets/images/Screenshot_02.jpg
 
-![screenshot] (https://github.com/AlexxSavov/note-your-average-app/develop/public/assets/images/ScreenShot2022_01.jpg
+![screenshot] (https://github.com/AlexxSavov/note-your-average-app/develop/public/assets/images/ScreenShot_01.jpg
 
 ### Contact 
 [Alex on GitHub](http://github.com/AlexxSavov)
