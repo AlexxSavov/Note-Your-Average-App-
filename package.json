@@ -1,0 +1,23 @@
+{
+  "name": "note-your-average-app",
+  "version": "1.0.0",
+  "description": "This is a application for note taking.  # Express.js Challenge: Note Taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexxSavov/Note-Your-Average-App-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexxSavov/Note-Your-Average-App-/issues"
+  },
+  "homepage": "https://github.com/AlexxSavov/Note-Your-Average-App-#readme"
+}
