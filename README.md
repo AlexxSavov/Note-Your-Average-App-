@@ -35,9 +35,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 https://note-your-average-app.herokuapp.com/
 ### Screenshots
 
-![screenshot](Public/assets/images/ScreenShot_01.jpg)
+![screenshot](public/assets/images/Screenshot_02.jpg)
 
-![screenshot](Public/assets/images/ScreenShot_01.jpg)
-
+![screenshot](public/assets/images/Screenshot_01.jpg)
 ### Contact 
 [Alex on GitHub](http://github.com/AlexxSavov)
